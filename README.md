@@ -7,14 +7,14 @@ If you use this classifier please cite the original paper.
 
 ```bibtex
 
-        @article{zhang2007ml,
-          title={ML-KNN: A lazy learning approach to multi-label learning},
-          author={Zhang, Min-Ling and Zhou, Zhi-Hua},
-          journal={Pattern recognition},
-          volume={40},
-          number={7},
-          pages={2038--2048},
-          year={2007},
-          publisher={Elsevier}
-        }
+@article{zhang2007ml,
+    title={ML-KNN: A lazy learning approach to multi-label learning},
+    author={Zhang, Min-Ling and Zhou, Zhi-Hua},
+    journal={Pattern recognition},
+    volume={40},
+    number={7},
+    pages={2038--2048},
+    year={2007},
+    publisher={Elsevier}
+}
 ```
